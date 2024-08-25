@@ -1,2 +1,2 @@
-# newdemo - this is poll scm demo
+# newdemo - this is github webhook demo
 newdemo
